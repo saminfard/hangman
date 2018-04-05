@@ -7,3 +7,5 @@ The user starts with 10 guesses per word, and loses one guess for each incorrect
 Bonus: I added hints for the user, each hint is matched to each answer.
 
 Here is a modification.
+
+Here's another.
